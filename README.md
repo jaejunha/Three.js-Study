@@ -1,5 +1,9 @@
-Three.js-Study
+# Three.js-Study
+
+[![Three.js](https://img.shields.io/badge/Three.js-r92-blue.svg)]() 
+
 Study for Three.js.  
+Three.js is opensource Graphics library  
 
 ---
 
@@ -51,5 +55,9 @@ https://jquery.com/download/
 ```
 - Three.js
 ```
-https://threejs.org
+https://threejs.org 
+```
+- markdown badge
+```
+http://shields.io/ 
 ```

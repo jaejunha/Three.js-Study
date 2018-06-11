@@ -1,6 +1,6 @@
 # Three.js-Study
 
-[![Three.js](https://img.shields.io/badge/Three.js-r92-blue.svg)]() 
+![Three.js](https://img.shields.io/badge/Three.js-r92-blue.svg)   
 
 Study for Three.js.  
 Three.js is opensource Graphics library  
